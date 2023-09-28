@@ -1,0 +1,62 @@
+{
+  "title": "Kanary",
+  "cover": "kanary101.jpg",
+  "description": "This is album 2",
+  "photos": [
+    {
+      "name": "kanary201.jpg",
+      "title": "photo 201",
+      "description": "This is photo 201"
+    },
+    {
+      "name": "kanary202.jpg",
+      "title": "photo 202",
+      "description": "This is photo 202"
+    },
+    {
+      "name": "kanary203.jpg",
+      "title": "photo 203",
+      "description": "This is photo 203"
+    },
+    {
+      "name": "kanary204.jpg",
+      "title": "photo 204",
+      "description": "This is photo 204"
+    },
+    {
+      "name": "kanary205.jpg",
+      "title": "photo 205",
+      "description": "This is photo 205"
+    },
+    {
+      "name": "kanary206.jpg",
+      "title": "photo 206",
+      "description": "This is photo 206"
+    },
+    {
+      "name": "kanary207.jpg",
+      "title": "photo 207",
+      "description": "This is photo 207"
+    },
+    {
+      "name": "kanary208.jpg",
+      "title": "photo 208",
+      "description": "This is photo 208"
+    },
+    {
+      "name": "kanary209.jpg",
+      "title": "photo 209",
+      "description": "This is photo 209"
+    },
+    {
+      "name": "kanary210.jpg",
+      "title": "photo 210",
+      "description": "This is photo 210"
+    },
+    {
+      "name": "kanary211.jpg",
+      "title": "photo 211",
+      "description": "This is photo 211"
+    }
+  ]
+}

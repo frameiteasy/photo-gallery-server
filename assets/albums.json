@@ -1,0 +1,21 @@
+[
+  {
+    "name": "album01",
+    "title": "Ireland",
+    "cover": "album101.jpg",
+    "description": "album01 Ireland description",
+    "onHomePage": false
+  },
+  {
+    "name": "album02",
+    "title": "Kanary",
+    "cover": "kanary201.jpg",
+    "description": "album01 Ireland description"
+  },
+  {
+    "name": "album03",
+    "title": "Portaits",
+    "cover": "album301.jpg",
+    "onHomePage": true
+  }
+]

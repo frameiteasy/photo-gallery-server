@@ -1,0 +1,72 @@
+{
+  "title": "Album 3",
+  "cover": "album301.jpg",
+  "description": "This is album 3",
+  "photos": [
+    {
+      "name": "album301.jpg",
+      "title": "photo 301",
+      "description": "This is photo 301"
+    },
+    {
+      "name": "album302.jpg",
+      "title": "photo 302",
+      "description": "This is photo 302"
+    },
+    {
+      "name": "album303.jpg",
+      "title": "photo 303",
+      "description": "This is photo 303"
+    },
+    {
+      "name": "album304.jpg",
+      "title": "photo 304",
+      "description": "This is photo 304"
+    },
+    {
+      "name": "album305.jpg",
+      "title": "photo 305",
+      "description": "This is photo 305"
+    },
+    {
+      "name": "album306.jpg",
+      "title": "photo 306",
+      "description": "This is photo 306"
+    },
+    {
+      "name": "album307.jpg",
+      "title": "photo 307",
+      "description": "This is photo 307"
+    },
+    {
+      "name": "album308.jpg",
+      "title": "photo 308",
+      "description": "This is photo 308"
+    },
+    {
+      "name": "album309.jpg",
+      "title": "photo 309",
+      "description": "This is photo 309"
+    },
+    {
+      "name": "album310.jpg",
+      "title": "photo 310",
+      "description": "This is photo 310"
+    },
+    {
+      "name": "album108.jpg",
+      "title": "photo 308",
+      "description": "This is photo 308"
+    },
+    {
+      "name": "album109.jpg",
+      "title": "photo 309",
+      "description": "This is photo 309"
+    },
+    {
+      "name": "album110.jpg",
+      "title": "photo 310",
+      "description": "This is photo 310"
+    }
+  ]
+}
