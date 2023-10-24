@@ -6,56 +6,67 @@
     {
       "name": "album101.jpg",
       "title": "photo 101",
+      "url": "http://localhost:3001/photos/album101.jpg",
       "description": "This is photo 101"
     },
     {
       "name": "album102.jpg",
       "title": "photo 102",
+      "url": "http://localhost:3001/photos/album102.jpg",
       "description": "This is photo 102"
     },
     {
       "name": "album103.jpg",
       "title": "photo 103",
+      "url": "http://localhost:3001/photos/album103.jpg",
       "description": "This is photo 103"
     },
     {
       "name": "album104.jpg",
       "title": "photo 104",
+      "url": "http://localhost:3001/photos/album104.jpg",
       "description": "This is photo 104"
     },
     {
       "name": "album105.jpg",
       "title": "photo 105",
+      "url": "http://localhost:3001/photos/album105.jpg",
       "description": "This is photo 105"
     },
     {
       "name": "album106.jpg",
       "title": "photo 106",
+      "url": "http://localhost:3001/photos/album106.jpg",
       "description": "This is photo 106"
     },
     {
       "name": "album107.jpg",
       "title": "photo 107",
+      "url": "http://localhost:3001/photos/album107.jpg",
       "description": "This is photo 107"
     },
     {
       "name": "album108.jpg",
       "title": "photo 108",
+      "url": "http://localhost:3001/photos/album108.jpg",
       "description": "This is photo 108"
     },
     {
       "name": "album109.jpg",
       "title": "photo 109",
+      "url": "http://localhost:3001/photos/album109.jpg",
       "description": "This is photo 109"
     },
     {
       "name": "album110.jpg",
       "title": "photo 110",
+      "url": "http://localhost:3001/photos/album110.jpg",
       "description": "This is photo 110"
     },
     {
       "name": "album111.jpg",
       "title": "photo 111",
+      "url": "http://localhost:3001/photos/album111.jpg",
       "description": "This is photo 111"
     }
   ]

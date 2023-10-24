@@ -11,6 +11,7 @@ const app = (0, express_1.default)();
 const cors = require('cors');
 app.use(cors());
 const port = process.env.PORT;
+app.use('/photos', express_1.default.static('assets/photos'));
 app.get('/', (req, res) => {
     res.send('Express + TypeScript Server');
 });

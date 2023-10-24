@@ -9,6 +9,8 @@ const cors = require('cors');
 app.use(cors());
 const port = process.env.PORT;
 
+app.use('/photos', express.static('assets/photos'));
+
 app.get('/', (req: Request, res: Response) => {
   res.send('Express + TypeScript Server');
 });
