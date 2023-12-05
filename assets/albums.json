@@ -2,7 +2,7 @@
   {
     "name": "album01",
     "title": "Ireland",
-    "cover": "http://localhost:3001/photos/album101.jpg",
+    "cover": "http://localhost:3001/photos/small/album101.jpg",
     "url": "http://localhost:3001/assets/albums/album01/album.json",
     "description": "album01 Ireland description",
     "onHomePage": true
@@ -10,14 +10,14 @@
   {
     "name": "album02",
     "title": "Kanary",
-    "cover": "http://localhost:3001/photos/kanary201.jpg",
+    "cover": "http://localhost:3001/photos/small/kanary201.jpg",
     "url": "http://localhost:3001/assets/albums/album02/album.json",
     "description": "album01 Ireland description"
   },
   {
     "name": "album03",
     "title": "Portaits",
-    "cover": "http://localhost:3001/photos/album301.jpg",
+    "cover": "http://localhost:3001/photos/small/album301.jpg",
     "url": "http://localhost:3001/assets/albums/album03/album.json",
     "onHomePage": false
   }
